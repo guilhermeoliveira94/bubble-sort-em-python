@@ -1,0 +1,2 @@
+# bubble-sort-em-python
+Você tem um conjunto não ordenado de números. Para que você possa visualizar os dados inseridos na lista em alguma ordem (por ex.: alfabética, do maior para o menor), é necessário que a lista seja ordenada. Existem diversos métodos de ordenação em lista, e o bubble sort (método da bolha) é um dos algoritmos mais simples. Nesse algoritmo apresento um bubble sort sendo executado em uma lista.
